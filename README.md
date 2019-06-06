@@ -13,6 +13,6 @@
 
 - Para correr el cliente vaya a /client/ y haga `npm start`, este corre por defecto en el puerto 3000.
 
-<a href="https://ibb.co/fvV168R"><img src="https://i.ibb.co/fvV168R/Captura-de-Pantalla-2019-06-05-a-la-s-21-39-46.png" alt="Captura-de-Pantalla-2019-06-05-a-la-s-21-39-46" border="0" /></a>
+<img src="https://i.ibb.co/fvV168R/Captura-de-Pantalla-2019-06-05-a-la-s-21-39-46.png" alt="Captura-de-Pantalla-2019-06-05-a-la-s-21-39-46" border="0" />
 
-<a href="https://ibb.co/Sy2QGs6"><img src="https://i.ibb.co/Sy2QGs6/Captura-de-Pantalla-2019-06-05-a-la-s-21-39-39.png" alt="Captura-de-Pantalla-2019-06-05-a-la-s-21-39-39" border="0" /></a>
+<img src="https://i.ibb.co/Sy2QGs6/Captura-de-Pantalla-2019-06-05-a-la-s-21-39-39.png" alt="Captura-de-Pantalla-2019-06-05-a-la-s-21-39-39" border="0" />
